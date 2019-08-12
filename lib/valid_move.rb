@@ -4,6 +4,8 @@ def valid_move?(board, index)
     execute position_taken?
   else
     return nil
+  end
+end
 
 
 
